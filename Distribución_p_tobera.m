@@ -232,5 +232,5 @@ fprintf(['Solución subsónica entre ='])
 rP_bloqueoS
 1
 
-L=3
+
        
